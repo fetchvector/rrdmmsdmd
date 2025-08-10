@@ -29,3 +29,5 @@ Make a strong, full password with just a quick move of your hand. No hard setups
 <br>
 
 Why use a guessable plan when you can trust the great mess of human-made randomness?
+
+# "In a world of predictable algorithms, the most secure key is the one forged from chaos." - scribevs
